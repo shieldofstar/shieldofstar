@@ -6,3 +6,4 @@
 0742. 📚 docs: clarify environment setup
 0248. 🐛 fix: handle 500 error in quiz API
 0941. 🚀 perf: cache repeated calculations
+0254. 🚀 perf: reduce image load time
