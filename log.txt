@@ -15,3 +15,4 @@
 0153. ♻️ chore: rename env.example
 0671. 🐛 fix: fix null pointer exception on login
 0606. 📚 docs: improve code comments in utils
+0224. 🐛 fix: fix broken CSS in mobile view
