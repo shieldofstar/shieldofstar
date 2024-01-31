@@ -21,3 +21,4 @@
 0290. ✅ test: test user registration edge cases
 0619. ✨ feat: create admin dashboard
 0814. 🔧 refactor: remove redundant code blocks
+0225. 🚀 perf: reduce image load time
