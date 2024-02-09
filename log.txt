@@ -24,3 +24,4 @@
 0225. 🚀 perf: reduce image load time
 0336. ✨ feat: add export to CSV option
 0520. 🐛 fix: fix null pointer exception on login
+0533. ♻️ chore: add GitHub actions badge
