@@ -27,3 +27,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0310. 🔧 refactor: refactor quiz grading logic
 0437. 📚 docs: clarify environment setup
+0754. 🐛 fix: handle 500 error in quiz API
