@@ -32,3 +32,4 @@
 0965. 🎨 style: reformat files with black
 0911. ✅ test: increase coverage on auth module
 0287. 📚 docs: write FAQ section
+0692. ✅ test: add integration test for /submit endpoint
