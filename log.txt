@@ -41,3 +41,4 @@
 0352. ✨ feat: add export to CSV option
 0782. 📚 docs: improve code comments in utils
 0837. 🚀 perf: cache repeated calculations
+0735. ♻️ chore: add GitHub actions badge
