@@ -44,3 +44,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0884. 📚 docs: clarify environment setup
 0060. ♻️ chore: clean up unused files
+0359. 🔧 refactor: clean up auth middleware
