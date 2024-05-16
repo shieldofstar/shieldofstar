@@ -53,3 +53,4 @@
 0037. 🐛 fix: correct typo in registration form
 0918. ✨ feat: enable dark mode toggle
 0295. 🎨 style: remove trailing whitespace
+0139. 📚 docs: document token refresh logic
