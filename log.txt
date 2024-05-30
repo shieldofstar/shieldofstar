@@ -56,3 +56,4 @@
 0139. 📚 docs: document token refresh logic
 0551. 📚 docs: write FAQ section
 0731. 🎨 style: standardize quote style
+0610. 🚀 perf: lazy-load components
