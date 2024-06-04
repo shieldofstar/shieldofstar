@@ -60,3 +60,4 @@
 0858. ♻️ chore: clean up unused files
 0482. ✨ feat: add export to CSV option
 0950. 🎨 style: reformat files with black
+0216. 🎨 style: rename variables for clarity
