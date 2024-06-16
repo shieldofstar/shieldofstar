@@ -64,3 +64,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0505. ♻️ chore: add GitHub actions badge
 0377. ✨ feat: add user authentication
+0107. 🐛 fix: prevent crash on empty input
