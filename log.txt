@@ -63,3 +63,4 @@
 0216. 🎨 style: rename variables for clarity
 0805. ♻️ chore: add GitHub actions badge
 0505. ♻️ chore: add GitHub actions badge
+0377. ✨ feat: add user authentication
