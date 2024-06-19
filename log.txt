@@ -65,3 +65,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0377. ✨ feat: add user authentication
 0107. 🐛 fix: prevent crash on empty input
+0093. ✅ test: add unit test for quiz service
