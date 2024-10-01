@@ -93,3 +93,4 @@
 0851. ✅ test: mock database connection in test suite
 0397. 🐛 fix: handle 500 error in quiz API
 0891. ✨ feat: create admin dashboard
+0584. 🚀 perf: lazy-load components
