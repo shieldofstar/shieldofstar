@@ -108,3 +108,4 @@
 0019. ✨ feat: enable dark mode toggle
 0191. 🔧 refactor: refactor quiz grading logic
 0878. 🔧 refactor: split large controller into smaller functions
+0024. 📚 docs: write FAQ section
