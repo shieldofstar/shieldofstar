@@ -109,3 +109,4 @@
 0191. 🔧 refactor: refactor quiz grading logic
 0878. 🔧 refactor: split large controller into smaller functions
 0024. 📚 docs: write FAQ section
+0945. ♻️ chore: add GitHub actions badge
