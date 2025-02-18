@@ -124,3 +124,4 @@
 0677. 📚 docs: add API usage examples
 0640. ♻️ chore: bump dependencies
 0088. 📚 docs: add API usage examples
+0768. 🎨 style: remove trailing whitespace
