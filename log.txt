@@ -127,3 +127,4 @@
 0768. 🎨 style: remove trailing whitespace
 0912. 📚 docs: document token refresh logic
 0628. ♻️ chore: add GitHub actions badge
+0990. ♻️ chore: rename env.example
