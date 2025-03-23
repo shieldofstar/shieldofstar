@@ -133,3 +133,4 @@
 0541. 🐛 fix: correct typo in registration form
 0822. 🔧 refactor: remove redundant code blocks
 0928. 🎨 style: apply consistent indentation
+0027. 📚 docs: clarify environment setup
