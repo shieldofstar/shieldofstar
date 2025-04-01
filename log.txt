@@ -136,3 +136,4 @@
 0027. 📚 docs: clarify environment setup
 0603. 🐛 fix: fix broken CSS in mobile view
 0909. 🔧 refactor: organize models into subfolders
+0776. ✅ test: add integration test for /submit endpoint
