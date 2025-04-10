@@ -140,3 +140,4 @@
 0678. ✨ feat: add user authentication
 0247. 🎨 style: apply consistent indentation
 0056. ♻️ chore: rename env.example
+0777. 📚 docs: document token refresh logic
