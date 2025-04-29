@@ -148,3 +148,4 @@
 0156. 🎨 style: rename variables for clarity
 0268. 🐛 fix: prevent crash on empty input
 0337. 📚 docs: document token refresh logic
+0948. 🐛 fix: fix broken CSS in mobile view
