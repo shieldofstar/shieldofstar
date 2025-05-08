@@ -151,3 +151,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0905. ♻️ chore: bump dependencies
 0375. 🐛 fix: handle 500 error in quiz API
+0229. 🚀 perf: optimize database query for quiz results
