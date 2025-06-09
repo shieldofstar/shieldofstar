@@ -157,3 +157,4 @@
 0648. ♻️ chore: bump dependencies
 0476. 🚀 perf: reduce image load time
 0414. 🔧 refactor: remove redundant code blocks
+0895. ✨ feat: support email verification
