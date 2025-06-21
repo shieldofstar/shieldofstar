@@ -161,3 +161,4 @@
 0197. 📚 docs: update README with setup steps
 0050. ✨ feat: enable dark mode toggle
 0828. ♻️ chore: add GitHub actions badge
+0857. 🎨 style: rename variables for clarity
