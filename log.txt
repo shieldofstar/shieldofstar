@@ -165,3 +165,4 @@
 0092. 🚀 perf: reduce image load time
 0020. ✅ test: add integration test for /submit endpoint
 0011. ✅ test: add unit test for quiz service
+0231. 🔧 refactor: clean up auth middleware
