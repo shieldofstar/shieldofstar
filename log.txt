@@ -169,3 +169,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0873. 🚀 perf: cache repeated calculations
 0038. 🎨 style: rename variables for clarity
+0508. ✅ test: add unit test for quiz service
