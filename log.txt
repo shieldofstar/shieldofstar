@@ -190,3 +190,4 @@
 0721. 🚀 perf: optimize database query for quiz results
 0252. 🎨 style: remove trailing whitespace
 0769. ✨ feat: create admin dashboard
+0447. ♻️ chore: bump dependencies
