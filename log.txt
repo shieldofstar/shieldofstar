@@ -193,3 +193,4 @@
 0447. ♻️ chore: bump dependencies
 0620. ✨ feat: implement quiz timer feature
 0757. 🔧 refactor: remove redundant code blocks
+0001. 🚀 perf: cache repeated calculations
